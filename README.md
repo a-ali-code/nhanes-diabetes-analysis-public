@@ -46,5 +46,6 @@ Applied econometric modeling (OLS and logistic regression)
 Use of interaction terms in policy-relevant contexts
 Reproducible workflow structure in Stata
 
-Author: Ayesha Ali
+Author: Ayesha Ali, PhD
+
 Applied Microeconomics — Health Policy
